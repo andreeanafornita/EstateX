@@ -1,0 +1,11 @@
+
+This is a placeholder file to ensure the img directory exists. You should replace this with actual images for:
+
+- Hero images (hero1.jpg, hero2.jpg, hero3.jpg)
+- About section photos (photographer.jpg, about-main.jpg)
+- Portfolio images (portfolio1.jpg through portfolio6.jpg)
+- Service images (wedding.jpg, event.jpg, portrait.jpg, commercial.jpg)
+- Testimonial images (testimonial1.jpg, testimonial2.jpg, testimonial3.jpg)
+- Team member photos (team1.jpg, team2.jpg, team3.jpg)
+- Equipment photos (equipment1.jpg, equipment2.jpg, equipment3.jpg, equipment4.jpg)
+- Instagram feed images (instagram1.jpg through instagram6.jpg)
